@@ -1,1 +1,15 @@
-<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<adverts>
+    <ad>
+        <year> 1960 </year>
+        <make> Cessna </make>
+        <model> Centurian </model>
+        <color> Yello with white trim </color>
+        <location>
+            <city> Gulfport </city>
+            <state> Mississippi </state>
+            <country> United States of America </country>
+        </location>
+        </location>
+    </ad>
+</adverts>
