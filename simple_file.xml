@@ -13,3 +13,20 @@
         </location>
     </ad>
 </adverts>
+
+<!--A tag with one attribute-->
+<patient name = "Ssebakijje John">...</patient>
+
+<!--A tag with one nested tag-->
+<patient>
+    <name> Ssebakijje John </name>
+</patient>
+
+<!--A tag with one nested tag , which contains three
+nested tags-->
+<patient>
+    <name>
+        <surname> Ssebakijje </surname>
+        <firstname> John </firstname>
+    </name>
+</patient>
